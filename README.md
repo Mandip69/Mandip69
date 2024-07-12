@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mandip Chaudhary</h1>
 <h3 align="center">Front-End Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJxZXY2bWh1eHhkbTR5cHFvcjZnYjMxaGt3enZ0ejRxdGg2bjNiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif">
+<img align="right" alt="Coding" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJxZXY2bWh1eHhkbTR5cHFvcjZnYjMxaGt3enZ0ejRxdGg2bjNiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif">
 
 <img src="https://komarev.com/ghpvc/?username=mandip69&label=Profile%20views&color=0e75b6&style=flat" alt="mandip69" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandip69&label=Profile%20views&color=0e75b6&style=flat" alt="mandip69" /> </p>
