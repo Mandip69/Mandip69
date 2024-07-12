@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Eyemate](https://github.com/Mandip69/MERN-project)
 
-- 🌱 I’m currently learning **Javascript, React js, Mango DB, Node js**
+- 🌱 I’m currently learning **Javascript, React js, Mongo DB, Node js**
 
 - 👯 I’m looking to collaborate on **Any React js project**
 
