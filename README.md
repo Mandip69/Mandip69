@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [Eyemate](https://github.com/Mandip69/MERN-project)
 
-- 🌱 I’m currently learning **Javascript, React js, Mongo DB, Node js**
+- 🌱 I’m currently learning **]Mongo DB, Node js**
 
 - 👯 I’m looking to collaborate on **Any React js project**
 
 - 🤝 I’m looking for help with **Node js**
 
-- 💬 Ask me about **Reactjs**
+- 💬 Ask me about **Reactjs Tailwind Css,**
 
 - 📫 How to reach me **mandipchaudhary111@gmail.com**
 
