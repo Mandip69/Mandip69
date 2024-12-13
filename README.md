@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Mandip Chaudhay</h1>
+<h1 align="center">Hi 👋, I'm Mandip Chaudhay </h1>
 <h3 align="center">Front-End Developer</h3>
 <img align="right" alt="Coding" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJxZXY2bWh1eHhkbTR5cHFvcjZnYjMxaGt3enZ0ejRxdGg2bjNiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif">
 
