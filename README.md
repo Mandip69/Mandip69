@@ -56,7 +56,6 @@
 
 ## 📌 Featured Projects  
 - 🛒 **[Ecommerce Website](https://github.com/Mandip69/Ecommerce-Website)** – MERN stack project with cart & authentication.  
-- 📊 **Student Result Calculator** – GPA & percentage calculator with dynamic grading logic.  
 - 📈 **Stock Trading Simulator** – Virtual trading platform with WebSocket live stock updates.  
 
 ---
